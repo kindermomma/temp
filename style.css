@@ -6877,7 +6877,7 @@ section .post {
 }
 
 #contact {
-  background: #FFEBEE;
+  background: #FFF;
   color: #C04646
 }
 
@@ -6893,26 +6893,25 @@ section .post {
 #contact .btn-default,
 #contact .btn-default:hover,
 #contact .btn-default:focus {
-  color: #FFEBEE;
+  color: #C04646;
   text-shadow: none;
-  background-color: #C04646;
-  border: 1px solid #fff;
+  background-color: #FFEBEE;
+  border: 3px solid #C04646;
   font-weight: 600
 }
 
 #contact .form-control {
   width: 100%;
   margin-bottom: 10px;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0);
   border: none;
   outline: none;
   padding: 10px;
   font-size: 16px;
   color: #C04646;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
-  border: 1px solid rgba(0, 0, 0, 0.3);
-  border-radius: 4px;
-  box-shadow: inset 0 -5px 45px rgba(100, 100, 100, 0.2), 0 1px 1px rgba(255, 255, 255, 0.2)
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0);
+  border: 3px solid #C04646;
+  border-radius: 4px
 }
 
 #contact .form-control:focus {
