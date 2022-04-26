@@ -6908,7 +6908,6 @@ section .post {
   padding: 10px;
   font-size: 16px;
   color: #C04646;
-  text-shadow: 1px 1px 1px #C04646;
   border: 3px solid #C04646;
   border-radius: 4px
 }
