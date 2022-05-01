@@ -57,7 +57,7 @@ var section = window.location.pathname;
       var email = $("#email").val();
       var subject = $("#subject").val();
       var message = $("#message").val();
-      $.get( "http://timothy.expert/sendmail.php", { name: name, email: email, subject: subject, message: message } )
+      $.get( "sendmail.php", { name: name, email: email, message: message } )
         .done(function( data ) {
           eval(data);
         });
