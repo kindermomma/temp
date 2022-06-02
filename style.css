@@ -6693,7 +6693,8 @@ body {
 .cover-wrapper {
   overflow: hidden;
   background: #e4af9d;
-  color: #BACDB7;
+  background-color: #BACDB7;
+  color: #C57b6e; 
   text-align: center;
   text-shadow:none;
   display: table;
@@ -6732,7 +6733,7 @@ body {
   color: #838f83;
   text-shadow: none;
   background-color: #BACDB7;
-  border: 3px solid #C57b6e
+  border: 3px solid #838f83
 }
 
 .cover-wrapper-inner {
@@ -6771,21 +6772,21 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #C57b6e;
+  color: #BACDB7;
   border-bottom: 2px solid transparent
 }
 
 .masthead-nav>li>a:hover,
 .masthead-nav>li>a:focus {
   background-color: transparent;
-  border-bottom-color: #C57b6e
+  border-bottom-color: #BACDB7
 }
 
 .masthead-nav>.active>a,
 .masthead-nav>.active>a:hover,
 .masthead-nav>.active>a:focus {
-  color: #C57b6e;
-  border-bottom-color: #C57b6e;
+  color: #e4af9d;
+  border-bottom-color: #BACDB7;
 }
 
 @media (min-width: 768px) {
@@ -6807,7 +6808,7 @@ body {
 }
 
 .mastfoot {
-  color: #C57b6e;
+  color: #BACDB7;
 }
 
 @media (min-width: 768px) {
