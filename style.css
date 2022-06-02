@@ -6094,9 +6094,8 @@ tbody.collapse.in {
 
 .jumbotron {
   padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: #C57b6e;
-  background-color: #E4af9d
+  margin-bottom: 30px;  
+  color: #E4af9d
 }
 
 .jumbotron h1,
@@ -6693,8 +6692,8 @@ body {
 
 .cover-wrapper {
   overflow: hidden;
-  background: #FFEBEE;
-  color: #C04646;
+  background: #e4af9d;
+  color: #BACDB7;
   text-align: center;
   text-shadow:none;
   display: table;
@@ -6730,9 +6729,9 @@ body {
 .cover-wrapper .btn-default,
 .cover-wrapper .btn-default:hover,
 .cover-wrapper .btn-default:focus {
-  color: #C57b6e;
+  color: #838f83;
   text-shadow: none;
-  background-color: #E4AF9D;
+  background-color: #BACDB7;
   border: 3px solid #C57b6e
 }
 
@@ -6755,7 +6754,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #C57b6e
+  color: #e4af9d
     
 }
 
